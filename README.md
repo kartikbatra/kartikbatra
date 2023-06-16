@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kartikbatra
-- 👀 I’m interested in android devlelopment 
-- 🌱 I’m currently learning Java
+- Hi, I’m @kartikbatra
+- I am a Technical Research Analyst at Intellipaat Software Solutions, leveraging my expertise to analyze and explore emerging technologies for impactful solutions."
 - 📫 How to reach me - kartikbatra3@gmail.com
 
 <!---
